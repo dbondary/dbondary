@@ -12,8 +12,6 @@
 
 - :telescope: I’m working as a WEB UI Engineer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on CodeWars, LeetCode and read tech articles.
 
 <div id="badges">
